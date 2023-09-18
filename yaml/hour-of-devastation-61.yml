@@ -1,0 +1,114 @@
+---
+object: card
+id: 57b9e3a3-8d01-4273-9658-9ffcbc2d2297
+oracle_id: 7b813e46-34f6-4918-97a7-a4b2a2464e86
+multiverse_ids:
+- 430750
+mtgo_id: 64606
+mtgo_foil_id: 64607
+tcgplayer_id: 134860
+cardmarket_id: 298553
+name: Carrion Screecher
+lang: en
+released_at: '2017-07-14'
+uri: https://api.scryfall.com/cards/57b9e3a3-8d01-4273-9658-9ffcbc2d2297
+scryfall_uri: https://scryfall.com/card/hou/61/carrion-screecher?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/7/57b9e3a3-8d01-4273-9658-9ffcbc2d2297.jpg?1562799721
+  normal: https://cards.scryfall.io/normal/front/5/7/57b9e3a3-8d01-4273-9658-9ffcbc2d2297.jpg?1562799721
+  large: https://cards.scryfall.io/large/front/5/7/57b9e3a3-8d01-4273-9658-9ffcbc2d2297.jpg?1562799721
+  png: https://cards.scryfall.io/png/front/5/7/57b9e3a3-8d01-4273-9658-9ffcbc2d2297.png?1562799721
+  art_crop: https://cards.scryfall.io/art_crop/front/5/7/57b9e3a3-8d01-4273-9658-9ffcbc2d2297.jpg?1562799721
+  border_crop: https://cards.scryfall.io/border_crop/front/5/7/57b9e3a3-8d01-4273-9658-9ffcbc2d2297.jpg?1562799721
+mana_cost: "{3}{B}"
+cmc: 4.0
+type_line: Creature — Zombie Bird
+oracle_text: Flying
+power: '3'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 65ff168b-bb94-47a5-a8f9-4ec6c213e768
+set: hou
+set_name: Hour of Devastation
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/65ff168b-bb94-47a5-a8f9-4ec6c213e768
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ahou&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/hou?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/57b9e3a3-8d01-4273-9658-9ffcbc2d2297/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7b813e46-34f6-4918-97a7-a4b2a2464e86&unique=prints
+collector_number: '61'
+digital: false
+rarity: common
+flavor_text: The banished have come home to roost.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Tomasz Jedruszek
+artist_ids:
+- bba69285-2445-4a4b-a847-59397be972ea
+illustration_id: 8ed540eb-0dd0-4c2f-b55b-d0f46de2712e
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 22199
+penny_rank: 4190
+prices:
+  usd: '0.03'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.20'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430750
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Carrion+Screecher&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Carrion+Screecher&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Carrion+Screecher
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/134860?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Carrion+Screecher&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/64606?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

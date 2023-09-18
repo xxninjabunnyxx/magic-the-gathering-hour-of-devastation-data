@@ -1,0 +1,115 @@
+---
+object: card
+id: 3bba75d2-3f1b-4828-be11-2da695f7bde7
+oracle_id: eab70fff-6a9f-4f9f-89a2-b6910c199e46
+multiverse_ids:
+- 430866
+mtgo_id: 64878
+mtgo_foil_id: 64879
+tcgplayer_id: 135086
+cardmarket_id: 298726
+name: Hashep Oasis
+lang: en
+released_at: '2017-07-14'
+uri: https://api.scryfall.com/cards/3bba75d2-3f1b-4828-be11-2da695f7bde7
+scryfall_uri: https://scryfall.com/card/hou/177/hashep-oasis?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/b/3bba75d2-3f1b-4828-be11-2da695f7bde7.jpg?1562795864
+  normal: https://cards.scryfall.io/normal/front/3/b/3bba75d2-3f1b-4828-be11-2da695f7bde7.jpg?1562795864
+  large: https://cards.scryfall.io/large/front/3/b/3bba75d2-3f1b-4828-be11-2da695f7bde7.jpg?1562795864
+  png: https://cards.scryfall.io/png/front/3/b/3bba75d2-3f1b-4828-be11-2da695f7bde7.png?1562795864
+  art_crop: https://cards.scryfall.io/art_crop/front/3/b/3bba75d2-3f1b-4828-be11-2da695f7bde7.jpg?1562795864
+  border_crop: https://cards.scryfall.io/border_crop/front/3/b/3bba75d2-3f1b-4828-be11-2da695f7bde7.jpg?1562795864
+mana_cost: ''
+cmc: 0.0
+type_line: Land — Desert
+oracle_text: |-
+  {T}: Add {C}.
+  {T}, Pay 1 life: Add {G}.
+  {1}{G}{G}, {T}, Sacrifice a Desert: Target creature gets +3/+3 until end of turn. Activate only as a sorcery.
+colors: []
+color_identity:
+- G
+keywords: []
+produced_mana:
+- C
+- G
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 65ff168b-bb94-47a5-a8f9-4ec6c213e768
+set: hou
+set_name: Hour of Devastation
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/65ff168b-bb94-47a5-a8f9-4ec6c213e768
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ahou&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/hou?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3bba75d2-3f1b-4828-be11-2da695f7bde7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aeab70fff-6a9f-4f9f-89a2-b6910c199e46&unique=prints
+collector_number: '177'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jonas De Ro
+artist_ids:
+- 561ebf9e-8d93-4b57-8156-8826d0c19601
+illustration_id: 0a028544-410c-49b0-abf8-48030df21ef4
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 5405
+penny_rank: 560
+prices:
+  usd: '0.18'
+  usd_foil: '2.59'
+  usd_etched: 
+  eur: '0.26'
+  eur_foil: '1.48'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430866
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hashep+Oasis&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hashep+Oasis&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hashep+Oasis
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/135086?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hashep+Oasis&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/64878?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

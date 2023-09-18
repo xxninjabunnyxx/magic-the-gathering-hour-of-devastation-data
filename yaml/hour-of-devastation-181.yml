@@ -1,0 +1,115 @@
+---
+object: card
+id: af11d41a-0d29-45e9-9d27-a41282b9e292
+oracle_id: d0d35864-1edc-4af1-9b89-3d7e94908011
+multiverse_ids:
+- 430870
+mtgo_id: 64886
+mtgo_foil_id: 64887
+tcgplayer_id: 135091
+cardmarket_id: 298729
+name: Ramunap Ruins
+lang: en
+released_at: '2017-07-14'
+uri: https://api.scryfall.com/cards/af11d41a-0d29-45e9-9d27-a41282b9e292
+scryfall_uri: https://scryfall.com/card/hou/181/ramunap-ruins?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/f/af11d41a-0d29-45e9-9d27-a41282b9e292.jpg?1562810961
+  normal: https://cards.scryfall.io/normal/front/a/f/af11d41a-0d29-45e9-9d27-a41282b9e292.jpg?1562810961
+  large: https://cards.scryfall.io/large/front/a/f/af11d41a-0d29-45e9-9d27-a41282b9e292.jpg?1562810961
+  png: https://cards.scryfall.io/png/front/a/f/af11d41a-0d29-45e9-9d27-a41282b9e292.png?1562810961
+  art_crop: https://cards.scryfall.io/art_crop/front/a/f/af11d41a-0d29-45e9-9d27-a41282b9e292.jpg?1562810961
+  border_crop: https://cards.scryfall.io/border_crop/front/a/f/af11d41a-0d29-45e9-9d27-a41282b9e292.jpg?1562810961
+mana_cost: ''
+cmc: 0.0
+type_line: Land — Desert
+oracle_text: |-
+  {T}: Add {C}.
+  {T}, Pay 1 life: Add {R}.
+  {2}{R}{R}, {T}, Sacrifice a Desert: Ramunap Ruins deals 2 damage to each opponent.
+colors: []
+color_identity:
+- R
+keywords: []
+produced_mana:
+- C
+- R
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 65ff168b-bb94-47a5-a8f9-4ec6c213e768
+set: hou
+set_name: Hour of Devastation
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/65ff168b-bb94-47a5-a8f9-4ec6c213e768
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ahou&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/hou?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/af11d41a-0d29-45e9-9d27-a41282b9e292/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad0d35864-1edc-4af1-9b89-3d7e94908011&unique=prints
+collector_number: '181'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Florian de Gesincourt
+artist_ids:
+- f28c54ff-bbe3-485d-81a4-b2cb49430a52
+illustration_id: 473fe95f-42f7-4308-9f45-fd8404570388
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 4052
+penny_rank: 20
+prices:
+  usd: '0.74'
+  usd_foil: '5.43'
+  usd_etched: 
+  eur: '1.16'
+  eur_foil: '3.52'
+  tix: '0.14'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ramunap+Ruins&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ramunap+Ruins&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ramunap+Ruins
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/135091?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ramunap+Ruins&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/64886?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

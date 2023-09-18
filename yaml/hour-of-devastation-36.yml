@@ -1,0 +1,127 @@
+---
+object: card
+id: 01040ed3-4f64-4e47-8f80-3d3a339004f7
+oracle_id: 6fbaac3b-37ec-4815-a4ea-544c547e90b1
+multiverse_ids:
+- 430725
+mtgo_id: 64556
+mtgo_foil_id: 64557
+tcgplayer_id: 136487
+cardmarket_id: 298739
+name: Hour of Eternity
+lang: en
+released_at: '2017-07-14'
+uri: https://api.scryfall.com/cards/01040ed3-4f64-4e47-8f80-3d3a339004f7
+scryfall_uri: https://scryfall.com/card/hou/36/hour-of-eternity?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/1/01040ed3-4f64-4e47-8f80-3d3a339004f7.jpg?1605100111
+  normal: https://cards.scryfall.io/normal/front/0/1/01040ed3-4f64-4e47-8f80-3d3a339004f7.jpg?1605100111
+  large: https://cards.scryfall.io/large/front/0/1/01040ed3-4f64-4e47-8f80-3d3a339004f7.jpg?1605100111
+  png: https://cards.scryfall.io/png/front/0/1/01040ed3-4f64-4e47-8f80-3d3a339004f7.png?1605100111
+  art_crop: https://cards.scryfall.io/art_crop/front/0/1/01040ed3-4f64-4e47-8f80-3d3a339004f7.jpg?1605100111
+  border_crop: https://cards.scryfall.io/border_crop/front/0/1/01040ed3-4f64-4e47-8f80-3d3a339004f7.jpg?1605100111
+mana_cost: "{X}{X}{U}{U}{U}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Exile X target creature cards from your graveyard. For each card exiled
+  this way, create a token that's a copy of that card, except it's a 4/4 black Zombie.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+all_parts:
+- object: related_card
+  id: 01040ed3-4f64-4e47-8f80-3d3a339004f7
+  component: combo_piece
+  name: Hour of Eternity
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/01040ed3-4f64-4e47-8f80-3d3a339004f7
+- object: related_card
+  id: ddd21725-17a3-40f9-bb9d-764c735949ef
+  component: token
+  name: Copy
+  type_line: Token
+  uri: https://api.scryfall.com/cards/ddd21725-17a3-40f9-bb9d-764c735949ef
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 65ff168b-bb94-47a5-a8f9-4ec6c213e768
+set: hou
+set_name: Hour of Devastation
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/65ff168b-bb94-47a5-a8f9-4ec6c213e768
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ahou&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/hou?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/01040ed3-4f64-4e47-8f80-3d3a339004f7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6fbaac3b-37ec-4815-a4ea-544c547e90b1&unique=prints
+collector_number: '36'
+digital: false
+rarity: rare
+watermark: planeswalker
+flavor_text: To serve as an Eternal is the afterlife granted to the worthy.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Tyler Jacobson
+artist_ids:
+- 522af130-8db4-4b4b-950c-6e2b246339cf
+illustration_id: de91590e-7fff-4b51-8fed-f5fa2dce6f97
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: true
+edhrec_rank: 9306
+penny_rank: 5123
+prices:
+  usd: '0.13'
+  usd_foil: '0.14'
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: '0.25'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430725
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hour+of+Eternity&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hour+of+Eternity&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hour+of+Eternity
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/136487?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hour+of+Eternity&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/64556?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

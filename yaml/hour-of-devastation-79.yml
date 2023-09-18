@@ -1,0 +1,113 @@
+---
+object: card
+id: 2f66410b-67a3-4f6a-b3ae-dcad9858a5da
+oracle_id: 9e9a7f0b-ffba-43d6-892a-95fd0b8b39f8
+multiverse_ids:
+- 430768
+mtgo_id: 64642
+mtgo_foil_id: 64643
+tcgplayer_id: 135075
+cardmarket_id: 298697
+name: Torment of Venom
+lang: en
+released_at: '2017-07-14'
+uri: https://api.scryfall.com/cards/2f66410b-67a3-4f6a-b3ae-dcad9858a5da
+scryfall_uri: https://scryfall.com/card/hou/79/torment-of-venom?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/f/2f66410b-67a3-4f6a-b3ae-dcad9858a5da.jpg?1562794405
+  normal: https://cards.scryfall.io/normal/front/2/f/2f66410b-67a3-4f6a-b3ae-dcad9858a5da.jpg?1562794405
+  large: https://cards.scryfall.io/large/front/2/f/2f66410b-67a3-4f6a-b3ae-dcad9858a5da.jpg?1562794405
+  png: https://cards.scryfall.io/png/front/2/f/2f66410b-67a3-4f6a-b3ae-dcad9858a5da.png?1562794405
+  art_crop: https://cards.scryfall.io/art_crop/front/2/f/2f66410b-67a3-4f6a-b3ae-dcad9858a5da.jpg?1562794405
+  border_crop: https://cards.scryfall.io/border_crop/front/2/f/2f66410b-67a3-4f6a-b3ae-dcad9858a5da.jpg?1562794405
+mana_cost: "{2}{B}{B}"
+cmc: 4.0
+type_line: Instant
+oracle_text: Put three -1/-1 counters on target creature. Its controller loses 3 life
+  unless they sacrifice another nonland permanent or discards a card.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 65ff168b-bb94-47a5-a8f9-4ec6c213e768
+set: hou
+set_name: Hour of Devastation
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/65ff168b-bb94-47a5-a8f9-4ec6c213e768
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ahou&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/hou?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2f66410b-67a3-4f6a-b3ae-dcad9858a5da/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9e9a7f0b-ffba-43d6-892a-95fd0b8b39f8&unique=prints
+collector_number: '79'
+digital: false
+rarity: common
+flavor_text: The Scorpion God's sting sends venom strong enough to poison blood, bone,
+  and spirit.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Johann Bodin
+artist_ids:
+- d92e2dd9-9ef6-43f6-81f8-df87f9066983
+illustration_id: e7705fa9-5fef-4f82-abad-f7c34cf7a4bf
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 11967
+penny_rank: 4538
+prices:
+  usd: '0.02'
+  usd_foil: '0.34'
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: '0.25'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430768
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Torment+of+Venom&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Torment+of+Venom&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Torment+of+Venom
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/135075?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Torment+of+Venom&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/64642?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
